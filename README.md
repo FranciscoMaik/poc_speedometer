@@ -10,3 +10,7 @@ Para iniciar a aplicação deve utilizar algum gerenciador de pacotes como _NPM_
 
 ## Biblioteca usada:
  - [React d3 Speedometer](https://github.com/palerdot/react-d3-speedometer#getting-started)
+
+ ## Exemplo de funcionamento
+
+ ![imagens](https://user-images.githubusercontent.com/20601076/148264522-e6b943e1-e178-4e0b-a317-ef1058ee0108.png)
